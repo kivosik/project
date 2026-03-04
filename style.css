@@ -1,0 +1,19 @@
+body{
+    background-color: #FFFACD;
+}
+
+table,h1{
+    color:#682C6C;
+}
+
+.silk{
+    background-color: #D1B4D3;
+    border-radius: 5px;
+    text-decoration:none;
+    border: #D1B4D3 solid 2px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
