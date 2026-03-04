@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link ref="stylesheet" href="style.css"/>
+        <title>каталог настольных игр</title>
+    </head>
+        <body>
+            <header>
+            </header>
+            <main>
+                <h1>Каталог моих настольных игр</h1>
+                <table>
+                    <tr>    
+                        <td>№</td>
+                        <td>наименование</td>
+                        <td>фото</td>
+                    </tr>
+                    <tr>    
+                        <td>1</td>
+                        <td><a href="">UNO</a></td>
+                        <td><img src="https://thumbs2.imgbox.com/51/c8/bys8yXXp_t.jpg"/></td>
+                    </tr>
+                    <tr>    
+                        <td>2</td>
+                        <td><a href="">Соображарий</a></td>
+                        <td><img src="https://thumbs2.imgbox.com/50/be/74zqkdVJ_t.jpg"/></td>
+                    </tr>
+                    <tr>    
+                        <td>3</td>
+                        <td><a href="">Чья льдина крепче</a></td>
+                        <td><img src="https://thumbs2.imgbox.com/74/40/zAEeBcYP_t.jpg"/></td>
+                    </tr>
+                </table>
+            </main>
+            <footer>
+            </footer>
+        </body>
+</html>
