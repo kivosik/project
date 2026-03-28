@@ -2,7 +2,7 @@ body{
     background-color: #FFFACD;
 }
 
-table,h1{
+table, p {
     color:#682C6C;
 }
 
@@ -14,6 +14,7 @@ table,h1{
     text-align: center;
 }
 
-h2{
+h1, h2 {
     text-align: center;
+    color:#682C6C;
 }
